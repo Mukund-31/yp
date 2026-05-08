@@ -32,7 +32,7 @@ pip install -r requirements.txt
 |---------|---------|------|
 | Leukemia | C-NMC 2019 | kaggle.com/datasets/avk256/cnmc-leukemia |
 | Malaria | NIH Cell Images | kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria |
-| Sickle Cell | erythrocytesIDB | Search "Sickle Cell blood smear dataset" |
+| Sickle Cell | erythrocytesIDB | kaggle.com/datasets/florencetushabe/sickle-cell-disease-dataset |
 | Cell Detection | BCCD | github.com/Shenggan/BCCD_Dataset |
 
 ### 3. Organize Datasets
