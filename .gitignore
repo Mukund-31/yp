@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Datasets (too large for git)
+optipath/datasets/
+
+# Training run artifacts
+optipath/runs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
